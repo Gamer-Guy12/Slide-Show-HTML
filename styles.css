@@ -1,0 +1,51 @@
+.rightButton {
+
+    margin-left: 0vw;
+    margin-top: 0vh;
+    height: 100vh;
+    width: 50vw;
+    position: absolute;
+    display: flex;
+
+}
+
+.leftButton {
+
+    margin-left: 50vw;
+    margin-top: 0vh;
+    height: 100vh;
+    width: 50vw;
+    position: absolute;
+    display: flex;
+
+}
+
+.noStyle {
+
+    background-color: transparent;
+    color: transparent;
+    border-color:  transparent;
+
+}
+
+body, html {
+
+    position:absolute;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.slide {
+
+    position: absolute;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    width: 100%;
+    height: 100%;
+    margin-top: 0vh;
+    margin-left: 0vw;
+
+}
